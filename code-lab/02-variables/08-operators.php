@@ -24,7 +24,7 @@ echo $message . " " . $name . " ";
 
 # ---
 
-// Operation: String and Number: integer
+// Operation: string and int
 $cost = "150";
 $amount = 3;
 
@@ -45,6 +45,3 @@ var_dump($isEditor && $isAdmin);
 var_dump($isEditor and $isAdmin);
 var_dump($isEditor || $isAdmin);
 var_dump($isEditor xor $isAdmin);
-
-
-
