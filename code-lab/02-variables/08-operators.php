@@ -36,7 +36,18 @@ var_dump($cost);
 
 # ---
 
-// Logical operators
+/*
+| Logical operators
+| Operator | Description            |
+| -------- | ---------------------- |
+| and      | True if both are true  |
+| &&       | True if both are true  |
+| or       | True if either is true |
+| ||       | True if either is true |
+| xor      | True if one is true    |
+| !        | True if it is not true |
+*/
+
 $isEditor = true;
 $isAdmin = false;
 
